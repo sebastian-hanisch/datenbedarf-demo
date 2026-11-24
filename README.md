@@ -1,7 +1,6 @@
 # Wie viele Daten braucht ein Abstand? Dimension, Struktur, Minibatch – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-datenbedarf-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-datenbedarf-demo.streamlit.app/)**
 
 Demo der Reihe **optimaler-transport** („Optimaler Transport: Verteilungen ineinander verschieben“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“. Sie setzt an einer Annahme an, die die Demo „Abstand zwischen Verteilungen“ stehen lässt: *Die Verteilungen sind exakt gegeben (Raster, geschlossene Formeln); es gibt kein n und keine Dimension d > 1.* Hier sind zwei **Stichproben** gegeben: der berechnete Abstand ist eine Zufallsgröße, und bei gleicher Verteilung ist er nicht null. Die Demo „Abstand zwischen Verteilungen“ zeigt Stichprobenrauschen nur an einem Beispiel (eine Dimension, ein wählbares n) und hebt die Annahme nicht auf; hier steht es im Mittelpunkt. Die Minibatch-Zuordnung in Experiment 2 ist dasselbe Zuordnungsproblem wie in „Vom Zuordnen zum Transportieren“, mit k Punkten.
 
